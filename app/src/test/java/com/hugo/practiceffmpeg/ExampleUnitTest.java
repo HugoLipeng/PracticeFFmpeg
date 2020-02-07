@@ -1,4 +1,4 @@
-package com.hugo.practiceffmepg;
+package com.hugo.practiceffmpeg;
 
 import org.junit.Test;
 
